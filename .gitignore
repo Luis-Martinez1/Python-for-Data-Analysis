@@ -1,3 +1,9 @@
+# shp
+*.shp
+
+# json
+*.json
+
 # csv
 *.csv
 
